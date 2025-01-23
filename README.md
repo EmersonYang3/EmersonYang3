@@ -2,8 +2,7 @@
 
 ## 🎓 About Me
 - 🏫 SITHS Class of 2027
-- 🎂 Birthday: March 20, 2009
-- 🌟 Pronouns: Any pronouns
+- 🎂 Birthday: March 20, 200
 
 ## 🚀 Projects
 
