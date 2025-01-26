@@ -16,14 +16,10 @@ An interactive platform that allows you to see the world through someone else's 
 - [GitHub Repo](https://github.com/EmersonYang3/StoriesFromAStranger)
 - [Live Demo](https://storiesfromastranger.netlify.app)
 
-### Mini Utils Series
-A collection of small utility projects.
-- 🐱 MeowLinks (In Progress)
-
-## 💻 Skills
-- HTML, CSS, JavaScript
-- React
-- Git & GitHub
+## MeowLinks
+A all in one utility app for all your link needs!
+- [Github Repo](https://github.com/EmersonYang3/MeowLinks)
+- [Link Demo](https://meowlinks.netlify.app)
 
 ## 📫 How to reach me
 - GitHub: [@EmersonYang3](https://github.com/EmersonYang3)
